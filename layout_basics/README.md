@@ -1,6 +1,4 @@
-# layout_basics
-
-Flutter layout basics
+# Flutter layout basics
 ![Screenshot 2022-11-09 161044](https://user-images.githubusercontent.com/117055641/200789844-baa2fa34-59a5-4525-a5a7-5590b4478cb7.png)
 
 ## Getting Started
